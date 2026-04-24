@@ -16,4 +16,5 @@ This project reflects the need for a “single pane of glass” approach to risk
 -- Dataset: PaySim Synthetic Financial Dataset (Kaggle)
 -- Link: https://www.kaggle.com/datasets/ealaxi/paysim1
 
- 
+ Power BI Dashboard:
+(https://app.powerbi.com/groups/me/reports/4875b2fd-46d2-4581-b27e-07eb5ead6096/3443948c96d7a02cb30c?experience=power-bi)
