@@ -12,3 +12,8 @@ Built a one-page Power BI dashboard to simulate a unified risk monitoring system
 <img width="1475" height="837" alt="image" src="https://github.com/user-attachments/assets/ca9a2fa5-2025-4d69-8d91-8d4cf662a2ad" />
 
 This project reflects the need for a “single pane of glass” approach to risk management — combining fraud detection, risk scoring, and transaction monitoring into one unified view.
+
+-- Dataset: PaySim Synthetic Financial Dataset (Kaggle)
+-- Link: https://www.kaggle.com/datasets/ealaxi/paysim1
+
+ 
